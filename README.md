@@ -14,4 +14,6 @@ npm install
 
 npm run dev 
 
+The website is made with the help of MERN stack. 
+
 
