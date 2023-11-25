@@ -10,6 +10,10 @@ npm install
 
  npm install 
 
+ // go back to previous directory
+
+ cd ../
+
 // Run it using the below command
 
 npm run dev 
